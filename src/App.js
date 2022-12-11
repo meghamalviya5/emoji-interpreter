@@ -7,7 +7,12 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "🥳": "partying face",
+  "🎉": "Party Popper",
+  "🎊": "Confetti Ball",
+  "🎇": "Sparkler",
+  "🌃": "Night with Stars"
 };
 
 export default function App() {
